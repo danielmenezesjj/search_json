@@ -1,0 +1,7 @@
+from metthod import *
+
+
+
+
+rodarPrograma()
+
